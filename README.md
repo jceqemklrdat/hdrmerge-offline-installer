@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-HDR+Photography-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-HDR+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 HDRMerge Free Installer** — HDRMerge is a free, open-source raw HDR merging tool for creating natural-looking HDR images from bracketed RAW exposures. Works without internet access, no account required. Full offline installation.
+**💻 HDRMerge Free Installer** — HDRMerge is a free, open-source tool for creating HDR RAW images by merging multiple exposures. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About HDRMerge
 
-HDRMerge is a free, open-source raw HDR merging tool for creating natural-looking HDR images from bracketed RAW exposures. Unlike tone-mapped HDR tools that produce stylized results, HDRMerge creates a single extended-dynamic-range DNG file that preserves all exposure information for natural processing in standard RAW developers like Lightroom or darktable.
+HDRMerge is a free, open-source tool for creating HDR RAW images by merging multiple exposures. It uses a sophisticated algorithm to select the best exposed pixels from each bracket shot, producing a single HDR DNG file without ghosting artifacts.
 
 ---
 
 ## ❌ Problem: HDRMerge is hard to access
 
-- **RAW-Only Input** — Works only with camera RAW files; JPEG input not supported
-- **DNG Output** — Produces DNG files requiring compatible RAW processor for final editing
-- **Ghosting Artifacts** — Moving subjects across exposures create ghosting that requires manual repair
-- **Technical Workflow** — Designed for experienced photographers familiar with RAW processing
+- **Technical Workflow** — Designed for photographers comfortable with RAW workflows
+- **Limited Output** — Outputs DNG only; requires a separate RAW developer for final processing
+- **No Tonemapping** — HDRMerge creates HDR files but does not tonemap them for display
+- **Bracket Requirements** — Requires well-aligned bracketed exposures to work correctly
 
 ---
 
@@ -121,7 +121,7 @@ HDRMerge is a free, open-source raw HDR merging tool for creating natural-lookin
 
 ---
 
-**HDRMerge Free Installer** — HDRMerge is a free, open-source raw HDR merging tool for creating natural-looking HDR images from bracketed RAW exposures. Install without internet connection today!
+**HDRMerge Free Installer** — HDRMerge is a free, open-source tool for creating HDR RAW images by merging multiple exposures. Install without internet connection today!
 
 <div align="center">
 
